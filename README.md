@@ -1,6 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l4pSU3qzOBMFr93G0/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZtcXRxbDh6cjl6dnhkbDdpeWc3Z3h2amVrdTcyaWd0dHVuOHNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmvP30RCxN6Ra/giphy.gif" width="400" height="200" />
 </div>
+
+<div id="badges">
+  <a href=
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div/>
 
 - 👋 Hi, I’m Anton
 - 👀 I’m interested in Software Engineering, Cybersecurity, DevOps, Cloud Infrastructure and all other areas of life.
