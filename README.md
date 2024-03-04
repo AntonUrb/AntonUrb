@@ -2,14 +2,40 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZtcXRxbDh6cjl6dnhkbDdpeWc3Z3h2amVrdTcyaWd0dHVuOHNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmvP30RCxN6Ra/giphy.gif" width="400" height="200" />
 </div>
 
-<div id="badges">
-  <a href=
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/anton-urban-4544522b5">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<div/>
+  </a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=s4nct&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 👋 Hi, I’m Anton
-- 👀 I’m interested in Software Engineering, Cybersecurity, DevOps, Cloud Infrastructure and all other areas of life.
-- 🌱 I’m currently studying at Kood/Johvi to become a Full-Stack Developer.
-- 💞️ I’m looking to collaborate on all kinds of projects, where I can learn from others and vice-versa.
-- 📫 You can reach me on https://www.linkedin.com/in/anton-urban-4544522b5
-- ⚡ Hobbies: I'm also into Paragliding and Basketball, among other things.
+---
+
+<h2>
+  About Me:
+</h2>
+
+
+<h3> 💻 Software | 🔒 CyberSecurity | 🌩️ Cloud Architecture | 📲 DevOps </h3>
+
+- 📚 I’m currently studying at Kood/Johvi to become a Full-Stack Developer.
+- 💼 Open to joining a team who wants to grow, I can learn from others and vice-versa.
+- ⚡ Into Paragliding 🪂 and Basketball 🏀, among other things.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+</div>
