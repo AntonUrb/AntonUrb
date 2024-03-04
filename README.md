@@ -23,7 +23,6 @@
 
 - 📚 Currently studying at kood/Johvi to become a Full-Stack Developer.
 - 💼 Open to joining a team who wants to grow, I like learning from others and hope to offer the same.
--  ⚡ Into Paragliding 🪂 and Basketball 🏀, among other things.
 
 ---
 
