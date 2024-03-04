@@ -1,5 +1,7 @@
 <div id="header" align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzczOXZ6d3lrcDBoNDA4Z3lrMHMwYmp0OGxvMWFtejF2em5majczNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ehBR5qtLEXBe/giphy.gif" width="700" height="300" />
+  </a>
 </div>
 
 <div id="badges" align="center">
