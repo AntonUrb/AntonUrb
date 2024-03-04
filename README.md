@@ -19,7 +19,7 @@
 
 <h3> 💻 Software | 🔒 CyberSecurity | 🌩️ Cloud Architecture | 📲 DevOps </h3>
 
-- 📚 Currently studying at Kood/Johvi to become a Full-Stack Developer.
+- 📚 Currently studying at kood/Johvi to become a Full-Stack Developer.
 - 💼 Open to joining a team who wants to grow, I can learn from others and vice-versa.
 -  ⚡ Into Paragliding 🪂 and Basketball 🏀, among other things.
 
