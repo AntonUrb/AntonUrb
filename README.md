@@ -14,7 +14,7 @@
 
 ---
 
-<h3> 💻 Software | 🔒 CyberSecurity | 🌩️ Cloud Architecture (<a href="https://www.credly.com/badges/2ec37ac2-bd66-4e85-82cb-2db410a392e2/linked_in_profile">AWS Certified</a>) | ⚙️ DevOps </h3>
+<h3> 💻 Software | 🔒 Cybersecurity | 🌩️ Cloud Architecture (<a href="https://www.credly.com/badges/2ec37ac2-bd66-4e85-82cb-2db410a392e2/linked_in_profile">AWS Certified</a>) | ⚙️ DevOps </h3>
 
 - 📚 Currently studying Full-Stack at kood/Johvi.
 - 💼 Open to joining a team who wants to grow, I like learning from others and hope to offer the same.
