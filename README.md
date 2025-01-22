@@ -14,10 +14,10 @@
 
 ---
 
-<h3> ⚙️ DevOps | 🔒 Cybersecurity | 🌩️ Cloud Architecture (<a href="https://www.credly.com/badges/2ec37ac2-bd66-4e85-82cb-2db410a392e2/linked_in_profile">AWS Certified</a>) | 💻 Software </h3>
+<h3> 🔒 Cybersecurity | ⚙️ DevOps | 🌩️ Cloud Architecture (<a href="https://www.credly.com/badges/2ec37ac2-bd66-4e85-82cb-2db410a392e2/linked_in_profile">AWS Certified</a>) | 💻 Software </h3>
 
 - 📚 kood/Johvi alumnus | Full-Stack, specialized in Cloud/DevOps.
-- 💼 Open to joining a team who wants to grow, I like learning from others and hope to offer the same.
+- 💼 CyberSec @Luminor
 
 ---
 
